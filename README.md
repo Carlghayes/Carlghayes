@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Everything DevOps**
 
-- 👨‍💻 I’m currently learning **Python, Docker, Ansible**
+- 👨‍💻 I’m currently learning **Python and studying for the AWS DevOps Professional Certification**
 
 - 📝 I regularly write articles on [https://medium.com/@carlintheclouds](https://medium.com/@carlintheclouds)
 
