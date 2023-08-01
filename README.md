@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carl Hayes</h1>
-<h3 align="center">A Cloud Engineer from the Great State of Texas!</h3>
+<h3 align="center">A Sys Admin from the Great State of Texas!</h3>
 
 - 👨‍💻 I’m currently learning **Python and studying for the AWS DevOps Professional Certification**
 
