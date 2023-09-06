@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carl Hayes</h1>
 <h3 align="center">A Sys Admin from the Great State of Texas!</h3>
 
-- 👨‍💻 I’m currently learning **Python**
+- 👨‍💻 I’m currently learning **CI/CD Pipelines & Docker**
 
 - 📝 I regularly write articles on [https://medium.com/@carlintheclouds](https://medium.com/@carlintheclouds)
 
