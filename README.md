@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently learning **CI/CD Pipelines & Docker**
 
-- 📝 I regularly write articles on [https://medium.com/@carlintheclouds](https://medium.com/@carlintheclouds)
+- 📝 I frequently write articles on [https://medium.com/@carlintheclouds](https://medium.com/@carlintheclouds) and carlghayes.com
 
 - 💬 I am interested in **DevOps & Infrastructure Automation**
 
