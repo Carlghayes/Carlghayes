@@ -30,7 +30,9 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlghayes&show_icons=true&locale=en&layout=compact" alt="carlghayes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlghayes&count_private=true&show_icons=true&locale=en" alt="carlghayes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlghayes&show_icons=true&locale=en" alt="carlghayes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlghayes&count_private=true&show_icons=true&locale=en&layout=compact" alt="carlghayes" /></p>
+
+
 
